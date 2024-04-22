@@ -26,8 +26,6 @@
   <li>Cloud Services
     <img height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img height="20" src="https://img.shields.io/badge/Amazon_ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=white">
-    <img height="20" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white">
-    <img height="20" src="https://img.shields.io/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white">
   </li>
   <li>DevOps
     <img height="20" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
