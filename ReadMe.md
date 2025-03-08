@@ -20,7 +20,6 @@
   </li>
   <li>Databases
     <img height="20" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img height="20" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img height="20" src="https://img.shields.io/badge/Oracle-232F3E?style=for-the-badge&logo=Oracle&logoColor=white">
   </li>
   <li>Cloud Services
